@@ -55,7 +55,7 @@ import ariba.util.scheduler.ScheduledTaskException;
 import ariba.util.scheduler.Scheduler;
 import config.java.schedule.util.CATFaltFileUtil;
 
-//TBD:::Whats needs to be filled if any of the field value is not present. right now writing it with ""
+//TBD:::Whatsss needs to be filled if any of the field value is not present. right now writing it with ""
 public class CATLSAPDWInvoicePush_FlatFile extends ScheduledTask
 {
 	private Partition p;
